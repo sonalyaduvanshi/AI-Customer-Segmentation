@@ -1,0 +1,10 @@
+Income_Group,Spending_Group,Customers,Avg_Age,Avg_Spending
+Low Income,Low Spender,23,45.21739130434783,20.91304347826087
+Low Income,Medium Spender,8,30.875,54.875
+Low Income,High Spender,19,25.105263157894736,81.78947368421052
+Medium Income,Low Spender,3,33.666666666666664,36.333333333333336
+Medium Income,Medium Spender,71,43.91549295774648,50.352112676056336
+Medium Income,High Spender,2,35.0,84.0
+High Income,Low Spender,37,40.86486486486486,18.35135135135135
+High Income,Medium Spender,4,29.75,67.25
+High Income,High Spender,33,32.90909090909091,83.81818181818181
