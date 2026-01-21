@@ -24,3 +24,14 @@ Key Insights:
 
 Outcome:
 This project demonstrates how AI-assisted analytics can support business decision-making and customer strategy planning.
+
+Note:
+This dashboard represents a learning-focused analytical project.
+The objective was to demonstrate customer segmentation logic, dashboard design,
+and AI-assisted insight generation rather than production-level metrics.
+
+Future Improvements:
+- Refine aggregations and measures for more realistic business metrics.
+- Enhance dashboard interactivity with slicers and advanced KPIs.
+
+
